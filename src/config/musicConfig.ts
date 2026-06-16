@@ -52,14 +52,14 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 			{
 				name: "使一颗心免于哀伤",
 				artist: "知更鸟 / HOYO-MiX / Chevy",
-				url: "/assets/music/使一颗心免于哀伤.flac",
+				url: "/assets/music/使一颗心免于哀伤.mp3",
 				cover: "/assets/music/cover/INSIDE.webp",
 				lrc: "/music/lrc/使一颗心免于哀伤.lrc"
 			},
 			{
 				name: "耀斑",
 				artist: "HOYO-Mix / YMIR",
-				url: "/assets/music/耀斑.flac",
+				url: "/assets/music/耀斑.mp3",
 				cover: "/assets/music/cover/Flares-of-the-Blazing-Sun.webp",
 				lrc: "/music/lrc/耀斑.lrc"
 			}
