@@ -62,6 +62,44 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				url: "/assets/music/耀斑.mp3",
 				cover: "/assets/music/cover/Flares-of-the-Blazing-Sun.webp",
 				lrc: "/music/lrc/耀斑.lrc"
+			},
+			{
+				name: "挪德卡莱",
+				artist: "HOYO-Mix / AURORA",
+				url: "/assets/music/挪德卡莱.flac",
+				cover: "/assets/music/cover/挪德卡莱.jpg",
+				lrc: "/music/lrc/挪德卡莱.lrc"
+			},
+			{
+				name: "昔涟",
+				artist: "HOYO-Mix / 张韶涵",
+				url: "/assets/music/昔涟.flac",
+				cover: "/assets/music/cover/昔涟.png",
+				lrc: "/music/lrc/昔涟.lrc"
+			},
+			{
+				name: "再度与你",
+				artist: "HOYO-Mix",
+				url: "/assets/music/再度和你.flac",
+				cover: "/assets/music/cover/昔涟.png"
+			},
+			{
+				name: "未尽的心语",
+				artist: "HOYO-Mix",
+				url: "/assets/music/未尽的心语.flac",
+				cover: "/assets/music/cover/闪耀的群星6.jpg"
+			},
+			{
+				name: "荒波椛叶",
+				artist: "HOYO-Mix",
+				url: "/assets/music/荒波椛叶.flac",
+				cover: "/assets/music/cover/闪耀的群星6.jpg"
+			},
+			{
+				name: "theme of SSS",
+				artist: "ANANT-GRADE EYES",
+				url: "/assets/music/theme of SSS.ogg",
+				cover: "/assets/music/cover/theme of SSS.jpg"
 			}
 		],
 	},
